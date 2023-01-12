@@ -1,0 +1,2 @@
+This is a simple project where when we build container it will check for file, if no file, then create. If there is a file, add 1 to data
+You can't see the file since docker hides it from host OS. It is intended
